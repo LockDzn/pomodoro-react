@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 Clone this repository and install the dependencies
 ```
-git clone https://github.com/LockDzn/react-styledcomponents-structure.git
-cd react-styledcomponents-structure
+git clone https://github.com/LockDzn/react-styledcomponents-structure.git app-name
+cd app-name
 yarn install
 ```
 
