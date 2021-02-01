@@ -6,13 +6,12 @@ This project has Typescript, ReactJS, Styled Components, Eslint and Prettier
 
 In the project directory, you can run:
 
-### `git clone`
-
 Clone this repository and install the dependencies
-
-`git clone https://github.com/LockDzn/react-styledcomponents-structure.git`
-`cd react-styledcomponents-structure`
-`yarn install`
+```
+git clone https://github.com/LockDzn/react-styledcomponents-structure.git
+cd react-styledcomponents-structure
+yarn install
+```
 
 ### `yarn start`
 
